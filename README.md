@@ -1,4 +1,4 @@
-# ** СОЛНЕЧНАЯ СИСТЕМА **
+# **СОЛНЕЧНАЯ СИСТЕМА**
 
 ![ Солнечная система ] ( http://light-science.ru/wp-content/uploads/2015/02/Planet-traectories.jpg )
 ## СОЛНЦЕ
